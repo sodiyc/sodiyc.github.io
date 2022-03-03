@@ -31,7 +31,7 @@
       sort: null,
       success: null,
       target: 'instafeed',
-      template: '<a href="{{link}}"><div class="instafeed-container"><img src="{{image}}" alt="{{caption}}" /></div></a>',
+      template: '<a href="{{link}}"><div class="instafeed-container"><img alt="{{caption}}" src="{{image}}" /></div></a>',
       templateBoundaries: ['{{','}}'],
       transform: null
     };
