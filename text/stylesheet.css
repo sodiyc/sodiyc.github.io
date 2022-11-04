@@ -13,11 +13,6 @@
   src: url(DegularVariable.ttf) format('truetype');
 }
 @font-face {
-	src: url('DegularVariable.woff2') format('woff2-variations');
-	font-family:'Degular Variable Var';
-	font-style: normal;
-}
-@font-face {
     font-family: 'Degular';
     src: url('Degular-Bold.woff2') format('woff2'),
         url('Degular-Bold.woff') format('woff');
