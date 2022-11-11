@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Degular Variable';
+    src: url('DegularVariable-None.woff2') format('woff2'),
+        url('DegularVariable-None.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+  font-family: 'Degular TTF';
+  font-style: normal;
+  font-display: fallback;
+  src: url(DegularVariable.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Degular';
+    src: url('Degular-Bold.woff2') format('woff2'),
+        url('Degular-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'CodeNextBold';
+    src: url('CodeNext-ExtraBold.woff2') format('woff2'),
+        url('CodeNext-ExtraBold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
